@@ -1,13 +1,6 @@
 ---
-title: Blog
-showTableOfContents: False
+title: Posts
+showTableOfContents: true
 ---
-<html>
-<div class="flex flex-row flex-wrap items-center">
-  {{/* Output partials */}}
-  {{ with ($meta.Get "partials") }}
-  {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" }}
-  {{ end }}
-</div>
-</html>
-Find more [about me and the blog here]({{< ref "about" >}}).
+
+I blog about software engineering research and beyond.

@@ -14,18 +14,53 @@
 [[main]]
     name = "Blog"
     pageRef = "posts"
+    weight = 10
+
+[[main]]
+    name = "Talks"
+    pageRef = "talks"
     weight = 20
+
+[[main]]
+    name = "Publications"
+    pageRef = "publications"
+    weight = 25
 
 [[main]]
     name = "Research"
     pageRef = "research"
-    weight = 30
+    weight = 25
 
 [[main]]
-    name = "Publications"
-    pageRef = "publication"
-    weight = 40
+    name = "About me"
+    pageRef = "about-me"
+    weight = 100
 
+
+
+#[[main]]
+#  identifier = "mastodon"
+#  pre = "mastodon"
+#  url = "https://mastodon.social/@michaeldorner"
+#  weight = 50
+
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://github.com/michaeldorner"
+#  weight = 60
+
+#[[main]]
+#  identifier = "stack-overflow"
+#  pre = "stack-overflow"
+#  url = "http://stackoverflow.com/users/1864294/michael-dorner"
+#  weight = 60
+
+#[[main]]
+#  identifier = "orcid"
+#  pre = "orcid"
+#  url = "https://orcid.org/0000-0001-8879-6450"
+#  weight = 60
 
 
 # -- Footer Menu --
@@ -41,4 +76,4 @@
 [[footer]]
     name = "Imprint"
     pageRef = "imprint"
-    weight = 20
+    weight = 30

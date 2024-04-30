@@ -1,12 +1,6 @@
 ---
 title: "Welcome! :tada:"
-description: "asdf"
+description: "Personal Website by Michael Dorner"
 ---
 
-[I am software engineering researcher]({{< ref "/about" >}}) at Blekinge Institute of Technology in Sweden and [blog]({{< ref "/posts" >}}) about [my research]({{< ref "research" >}}). I also share my [publications]({{< ref "/tags/publication" >}}), each with a short summary for non-researchers and extra materials.
-
-If you have any questions, feel free to reach out!
-
-
-
-
+On this website, you find concise [blog posts]({{< ref "posts" >}}), informative [talks]({{< ref "talks" >}}), and complete [scientific publications](({{< ref "research" >}})) about [my research]({{< ref "research" >}}) on how to build software better and how to build better software.

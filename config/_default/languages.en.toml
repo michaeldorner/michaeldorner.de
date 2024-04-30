@@ -1,16 +1,15 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-
 title = "Michael Dorner"
-# logo = "img/me.jpg"
-description = "Software engineering researcher"
-# copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  #logo = "img/blowfish_logo_transparent.png"
+  description = "How to make software better and how to to make better"
 
 [author]
   name = "Michael Dorner"
@@ -18,7 +17,13 @@ dateFormat = "2 January 2006"
   headline = "Software engineering researcher"
   bio = "Software engineering researcher"
   links = [
+    { orcid = "https://orcid.org/0000-0001-8879-6450" },
+    { stack-overflow = "https://stackoverflow.com/users/userid/michael-dorner" },
+    { github = "https://github.com/michaeldorner" },
+    { mastodon = "https://mastodon.social/@michaeldorner" },
+    { linkedin = "https://linkedin.com/in/dornermichael" },
     { email = "mailto:mail@michaeldorner.de" },
+    { google = "https://www.google.com/" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,7 +35,6 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/michaeldorner" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -38,11 +42,8 @@ dateFormat = "2 January 2006"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-    { linkedin = "https://linkedin.com/in/dornermichael" },
-  #   { mastodon = "https://mastodon.social/@michaeldorner" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
-    { orcid = "https://orcid.org/0000-0001-8879-6450" },
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
   #   { reddit = "https://reddit.com/user/username" },
@@ -50,7 +51,6 @@ dateFormat = "2 January 2006"
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },
-    { stack-overflow = "https://stackoverflow.com/users/userid/michael-dorner" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { telegram = "https://t.me/username" },
   #   { tiktok = "https://tiktok.com/@username" },
@@ -61,3 +61,5 @@ dateFormat = "2 January 2006"
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
   ]
+
+

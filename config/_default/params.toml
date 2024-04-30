@@ -8,19 +8,20 @@
 colorScheme = "Blowfish"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-
 enableSearch = true
 enableCodeCopy = true
-
-mainSections = ["posts"]
-# robots = ""
-
-# disableImageOptimization = false
-
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+disableImageOptimization = false
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+showViews = false
+showLikes = false
+robots = "all"
+defaultBackgroundImage = "/img/background.svg"
+#defaultFeaturedImage = "/img/featured.svg"
 
 [header]
-  layout = "basic" # valid options: basic, fixed
+  layout = "fixed" # valid options: basic, fixed
 
 [footer]
   showMenu = true
@@ -31,51 +32,29 @@ mainSections = ["posts"]
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "img/me.jpg" # used in: hero, and card
+  homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
-  showRecentItems = 3
-  showMoreLink = true
-  showMoreLinkDest = "/posts"
-  cardView = false
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
-  showDateUpdated = false
-  showAuthor = true
-  showHero = true
+  showAuthorBottom = true
+  showHero = false
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
   showReadingTime = false
   showTableOfContents = true
+  showRelatedContent = false
   showTaxonomies = true 
   showAuthorsBadges = true 
-  showWordCount = true
+  showWordCount = false
   showSummary = true
-  sharingLinks = []
-
+  
 [list]
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = true
   #showViews = true
-  #showLikes = true
   showTableOfContents = true
   showCards = false
   groupByYear = true
@@ -87,44 +66,20 @@ mainSections = ["posts"]
 
 [taxonomy]
   showTermCount = true
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  cardView = false
+  showHero = false
+  showBreadcrumbs = true
+  showTableOfContents = true
 
 [term]
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  #showViews = false
-  showLikes = false
   showTableOfContents = true
   groupByYear = true
-  cardViewScreenWidth = false
-  cardView = false
-
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "michaeldorner"
+  globalWidget = true
+  globalWidgetMessage = "Hello"
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
