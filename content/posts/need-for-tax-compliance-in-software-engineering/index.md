@@ -50,6 +50,8 @@ Pretending to be dead for tax reasons is no option because ignoring the signific
 
 Obviously, there are neither simple solutions for such a complex and interdisciplinary problem, nor a single article that can solve this complex problem potentially affecting every software-developing company with developers employed by subsidiaries in more than one country. However, our article aims to bring this eminent and unsolved problem of taxing collaborative software engineering to the audience that can solve this issue. As a software engineering community, we will need to find a common understanding of what constitutes taxable transactions and each company that develops software collaboratively within more than one country needs to learn how to track and value cross-border collaboration, how to estimate the transfer pricing, and how to report these to the tax authorities to be compliant.
 
+Got you excited? Find more blog posts, research articles, and talks about [tax compliance in software engineering here]({{<ref "/research/tax-compliance-in-software-engineering">}}).
+
 {{< alert "graduation-cap" >}}
 This series is based on our research article *[Taxing Collaborative Software Engineering](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646)* published as open-access at IEEE Software.
 {{< /alert >}}
