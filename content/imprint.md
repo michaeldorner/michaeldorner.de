@@ -2,6 +2,7 @@
 title: Imprint
 description: "Imprint"
 showDate: false
+showPagination: false
 ---
 
 Michael Dorner<br>
