@@ -7,7 +7,7 @@ showPagination: false
 
 ## The Researcher
 
-I love coding. I see beauty in code. Of course, not every code sparks joy, but nicely drafted, well-engineered software does. But what is well-engineered software? How can we make better software? Finding answers to those fundamental questions of software engineering is at the core of what motivates me. I am particularly interested in two omnipresent aspects of modern software engineering: [code review]({{< ref "/research/code-review" >}}) and [open source]({{< ref "/research" >}}). Both are unique to software engineering and have a long history of existing research. Yet, their stories have not been told entirely.
+I love coding. I see beauty in code. Of course, not every code sparks joy, but nicely drafted, well-engineered software does. But what is well-engineered software? How can we make better software and how can we make software better? Finding answers to those fundamental questions of software engineering is at the core of what motivates me. I am particularly interested in two omnipresent aspects of modern software engineering: [code review]({{< ref "/research/code-review" >}}) and [open source]({{< ref "/research" >}}). Both are unique to software engineering and have a long history of existing research. Yet, their stories have not been told entirely.
 
 Although part of my work is qualitative, I love to crunch numbers, dig into large datasets, and apply all sorts of data analysis. In particular, I am an enthusiast of [simulations]({{< ref "/research/simulation" >}}) as an empirical research method in and for software engineering research.
 
@@ -29,7 +29,7 @@ Learn more about Kolabri and tax-compliance-as-a-service on [www.kolabri.io](www
 
 ## The Consultant
 
-Not everything is research. I work as a software engineering consultant at [Capraro Dorner](https://www.caprarodorner.de), a consulting company I co-founded with my dear colleague [Maximilian Capraro](https://www.capraro.net). We offer tailor-made consulting services around open source and inner source for companies.
+Not everything is research. Not everything requires one to set out for new knowledge. Some problems, although sometimes very complex and troublesome, require the hands-on and practical application of existing knowledge. On such problems, I work as a software engineering consultant at <span style="white-space: nowrap">[Capraro Dorner](https://www.caprarodorner.de)</span>, a consulting company I co-founded with my dear colleague [Maximilian Capraro](https://www.capraro.net). We offer tailor-made consulting services around open source and inner source for companies.
 
 Learn more about our services at [www.caprarodorner.de](https://www.caprarodorner.de).
 
