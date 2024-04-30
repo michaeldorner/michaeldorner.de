@@ -1,8 +1,8 @@
 ---
 title: 'Foundations of Tax Compliance in Software Engineering'
 date: 2024-03-08
-description: "The first article of a series on tax compliance in software engineering introduces you to the foundations of international taxation."
-summary: "In this first blog post in the series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic Arm's Length Principle from a software engineering perspective. "
+description: "In this first blog post in the series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic Arm's Length Principle from a software engineering perspective."
+summary: "In this first blog post in the series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic Arm's Length Principle from a software engineering perspective."
 research: ["tax compliance in software engineering"]
 series: 
     - "Tax Compliance for Software Engineering"
@@ -12,9 +12,9 @@ series_order: 1
 > He’s spending a year dead for tax reasons.<br>
 > — <cite>Douglas Adams, The Hitchhiker’s Guide to the Galaxy</cite>
 
-Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. Such collaboration has an often overlooked legal implication: the profits from those cross-border collaborations become taxable.
+Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. Such collaboration has an often overlooked legal implication: the profits from those cross-border collaborations become taxable. 
 
-In this first blog post in our series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic Arm's Length Principle from a software engineering perspective. And no worries, no prior knowledge or background is needed. In the following blog posts of this series, we will then discuss the unique challenges of taxing collaborative software engineering and we will illustrate the industrial significance of cross-border collaboration using code review in an industrial case.
+In this first blog post in our series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic Arm's Length Principle from a software engineering perspective. And no worries, no prior knowledge or background is needed. In the following blog posts of this series, we will then discuss the [unique challenges of taxing collaborative software engineering]({{<ref "/posts/challenges-of-tax-compliance-in-software-engineering" >}}) and [we show the need for tax compliance in collaborative software engineering by approximating cross-border collaboratio through code review]({{<ref "need-for-tax-compliance-in-software-engineering">}}).
 
 ## A Simplified Example
 

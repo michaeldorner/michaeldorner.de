@@ -1,7 +1,7 @@
 ---
 title: 'Need for Tax Compliance in Software Engineering'
 date: 2024-04-27
-description: "The third article of a series on tax compliance in software engineering we  the fundemantal challenges unique to software engineering."
+description: "In third blog post in the series on tax compliance in software engineering, we will estimate the prevelance of cross-border collaboration, and therefore, the need for tax compliance in software engineering by measuring cross-border code review in a multinational software company."
 summary: "In third blog post in the series on tax compliance in software engineering, we will estimate the prevelance of cross-border collaboration, and therefore, the need for tax compliance in software engineering by measuring cross-border code review in a multinational software company."
 research: ["tax compliance in software engineering", "code review"]
 series: 
@@ -9,7 +9,10 @@ series:
 series_order: 3
 ---
 
-So, is cross-border collaboration and, therefore, also the taxation of it, a real issue?
+Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. Such collaboration has an often overlooked legal implication: the profits from those cross-border collaborations become taxable.
+
+Now that we understood the foundations and the challenges in tax compliance for software engineering
+In this third blog post in our series on tax compliance in software engineering, we will explore the question: Is cross-border collaboration and, therefore, also the taxation of it, a real issue?
 
 ## Approximating Cross-border Collaboration
 
@@ -46,3 +49,7 @@ On the one hand, the arm's length principle is the de-facto standard for multina
 Pretending to be dead for tax reasons is no option because ignoring the significant cross-border collaboration in modern software development, as we exemplarily found, is a slippery slope: Cross-border collaborations in software engineering will draw the attention of tax authorities. Also, ceasing or forbidding all cross-border collaboration in software engineering is not a valid solution: Reversing the collaborative nature of modern software engineering is likely too costly and takes too long.
 
 Obviously, there are neither simple solutions for such a complex and interdisciplinary problem, nor a single article that can solve this complex problem potentially affecting every software-developing company with developers employed by subsidiaries in more than one country. However, our article aims to bring this eminent and unsolved problem of taxing collaborative software engineering to the audience that can solve this issue. As a software engineering community, we will need to find a common understanding of what constitutes taxable transactions and each company that develops software collaboratively within more than one country needs to learn how to track and value cross-border collaboration, how to estimate the transfer pricing, and how to report these to the tax authorities to be compliant.
+
+{{< alert "graduation-cap" >}}
+This series is based on our research article *[Taxing Collaborative Software Engineering](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646)* published as open-access at IEEE Software.
+{{< /alert >}}
