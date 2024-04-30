@@ -35,7 +35,7 @@ Learn more about our services at [www.caprarodorner.de](https://www.caprarodorne
 
 ## The Human Being
 
-I am the father of two wonderful kids, who are everything to me. When not in front of a computer, you can likely find me swimming, running, or hiking to compensate for my passion: delicious food. And from time to time, I touch a piano inappropriately with my band [Klafünf](https://www.klafuenf.com).
+I am the father of two wonderful kids, who are everything to me, and married to the love of my life, Christina. When not in front of a computer, you can likely find me swimming, running, or hiking to compensate for my passion: delicious food. And from time to time, I touch a piano inappropriately with my band [Klafünf](https://www.klafuenf.com).
 
 {{< figure
 src="my-everything.jpeg"
