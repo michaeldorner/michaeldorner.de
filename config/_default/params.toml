@@ -74,13 +74,6 @@ defaultBackgroundImage = "/img/background.svg"
   showTableOfContents = true
   groupByYear = true
 
-[buymeacoffee]
-  identifier = "michaeldorner"
-  globalWidget = true
-  globalWidgetMessage = "Hello"
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
-
 [verification]
   # google = ""
   # bing = ""
