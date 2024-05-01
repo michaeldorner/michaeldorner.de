@@ -32,6 +32,10 @@ Michael Dorner, Darja Smite, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka
 Download PDF
 {{< /button >}}
 
+## Replication Package
+
+{{< github repo="michaeldorner/only-time-will-tell" >}}
+
 ## Meta
 
 - DOI: [10.1145/3544902.3546254](https://doi.org/10.1145/3544902.3546254)

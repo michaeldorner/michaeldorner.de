@@ -13,7 +13,7 @@ Michael Dorner, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka
 
 ## Abstract
 
-**Background:** Code review, the discussion around a code change among humans, forms a communication network that enables its participants to exchange and spread information. Although reported by qualitative studies, our understanding of the capability of code review as a communication network is still limited. 
+**Background:** Code review, the discussion around a code change among humans, forms a communication network that enables its participants to exchange and spread information. Although reported by qualitative studies, our understanding of the capability of code review as a communication network is still limited.
 
 **Objective:** In this article, we report on a first step towards understanding and evaluating the capability of code review as a communication network by quantifying how fast and how far information can spread through code review: the upper bound of information diffusion in code review.
 
@@ -28,6 +28,10 @@ Michael Dorner, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka
 {{< button href="information-diffusion-boundaries.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
+
+## Replication Package
+
+{{< github repo="michaeldorner/information-diffusion-boundaries-in-code-review" >}}
 
 ## Meta
 
