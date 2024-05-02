@@ -1,16 +1,3 @@
-# -- Main Menu --
-# The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
-# The simplest menu configuration is to provide:
-#   name = The name to be displayed for this menu link
-#   pageRef = The identifier of the page or section to link to
-#
-# By default the menu is ordered alphabetically. This can be
-# overridden by providing a weight value. The menu will then be
-# ordered by weight from lowest to highest.
-
-
 [[main]]
     name = "Blog"
     pageRef = "posts"
@@ -36,38 +23,12 @@
     pageRef = "about-me"
     weight = 100
 
-
-
-#[[main]]
-#  identifier = "mastodon"
-#  pre = "mastodon"
-#  url = "https://mastodon.social/@michaeldorner"
-#  weight = 50
-
-#[[main]]
-#  identifier = "github"
-#  pre = "github"
-#  url = "https://github.com/michaeldorner"
-#  weight = 60
-
-#[[main]]
-#  identifier = "stack-overflow"
-#  pre = "stack-overflow"
-#  url = "http://stackoverflow.com/users/1864294/michael-dorner"
-#  weight = 60
-
-#[[main]]
-#  identifier = "orcid"
-#  pre = "orcid"
-#  url = "https://orcid.org/0000-0001-8879-6450"
-#  weight = 60
-
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
+[[footer]]
+    name = "Contact"
+    pageRef = "contact"
+    weight = 10
 
 [[footer]]
     name = "Imprint"
     pageRef = "imprint"
-    weight = 10
+    weight = 20
