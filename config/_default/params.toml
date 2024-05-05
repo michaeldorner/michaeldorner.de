@@ -54,25 +54,17 @@ defaultBackgroundImage = "/img/background.svg"
 [list]
   showBreadcrumbs = false
   showSummary = true
-  #showViews = true
-  showTableOfContents = true
+  showHero = false
+  heroStyle = "big"
+  showTableOfContents = false
   showCards = false
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = []
-
-[taxonomy]
-  showTermCount = true
-  showHero = false
-  showBreadcrumbs = true
-  showTableOfContents = true
-
-[term]
-  showTableOfContents = true
-  groupByYear = true
 
 [verification]
   # google = ""
