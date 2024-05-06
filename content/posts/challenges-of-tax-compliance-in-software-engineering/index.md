@@ -62,9 +62,7 @@ This means we cannot simply use purely quantitative measurements for transfer pr
 **Insight:** A purely quantitative valuing can hardly reflect the value of transactions; however, a purely qualitative assessment does not scale with the magnitude of cross-border transactions in modern software development. Transfer pricing requires a tool-supported processes that assists tax and software engineering experts.
 {{< /alert >}}
 
-## Is the problem an actual problem?
-
-In our next blog post, we will look into the preveleance of taxable cross-border collaboration and find out if the problem of taxation is an acutal challenge.
+In the [next blog post]({{<ref "/posts/need-for-tax-compliance-in-software-engineering">}}), we will look into the preveleance of taxable cross-border collaboration and find out if the problem of taxation is an acutal challenge.
 
 {{< alert "graduation-cap" >}}
 This series is based on our research article *[Taxing Collaborative Software Engineering](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646)* published as open-access at IEEE Software.

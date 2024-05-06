@@ -11,8 +11,7 @@ series_order: 3
 
 Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. Such collaboration has an often overlooked legal implication: the profits from those cross-border collaborations become taxable.
 
-Now that we understood the foundations and the challenges in tax compliance for software engineering
-In this third blog post in our series on tax compliance in software engineering, we will explore the question: Is cross-border collaboration and, therefore, also the taxation of it, a real issue?
+Now that we understood the [foundations]({{<ref "/posts/foundations-of-tax-compliance-in-software-engineering">}}) and the [challenges]({{<ref "/posts/challenges-of-tax-compliance-in-software-engineering">}}) in tax compliance for software engineering from the previous blog posts of this series, it is time to answer the question of all questions: Is cross-border collaboration and, therefore, also the taxation of it, a real issue?
 
 ## Approximating Cross-border Collaboration
 
@@ -30,7 +29,7 @@ We measured the share of cross-border code reviews at a multinational company de
 We provide a [replication package to reproduce our results for any GitHub Enterprise instance](https://github.com/michaeldorner/tax_se). Due to the sensitive topic, we are not able to share our data.
 {{< /alert >}}
 
-From the code review tool, we extracted all code reviews that were completed in 2019, 2020, 2021, and 2022 including their activities. All bot activities were removed and were not considered in our analysis. We then [modelled code reviews as communication channels among code review participants](). We consider a code review as a discussion thread that is completed as soon as no more information regarding a particular code change is exchanged (i.e., the code review is closed). We complement each code review participant with the information of the country of the employing subsidiaries at the time of the code review.
+From the code review tool, we extracted all code reviews that were completed in 2019, 2020, 2021, and 2022 including their activities. All bot activities were removed and were not considered in our analysis. We then [modelled code reviews as communication channels among code review participants]({{<ref "/publications/only-time-will-tell">}}). We consider a code review as a discussion thread that is completed as soon as no more information regarding a particular code change is exchanged (i.e., the code review is closed). We complement each code review participant with the information of the country of the employing subsidiaries at the time of the code review.
 
 ## Results
 
