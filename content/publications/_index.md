@@ -2,10 +2,13 @@
 title: Publications 
 description: "All my publications freely available"
 showTableOfContents: true
-showDate: true
+showDate: false
+showSummary: true
 
 cascade:
-  showReadingTime: false
+  showAuthor: false
+  showDate: false
+  showSummary: true
 ---
 
 {{< alert >}}
