@@ -7,7 +7,7 @@ title = "Michael Dorner"
   displayName = "English"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2, 2006"
   #logo = "img/blowfish_logo_transparent.png"
   description = "How to make software better and how to to make better"
 
