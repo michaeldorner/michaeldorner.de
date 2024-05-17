@@ -3,4 +3,4 @@ title: "Welcome! :tada:"
 description: "Personal Website by Michael Dorner"
 ---
 
-On this website, you find concise [blog posts]({{< ref "posts" >}}), informative [talks]({{< ref "talks" >}}), and complete [scientific publications](({{< ref "research" >}})) about [my research]({{< ref "research" >}}) on how to build software better and how to build better software.
+On this website, I [blog]({{< ref "posts" >}}), [talk]({{< ref "talks" >}}), and [publish]({{< ref "publications" >}}) about [my research]({{< ref "research" >}}) on<br>how to build software better and how to build better software.
