@@ -21,6 +21,10 @@ Exploratory research begins with specific observations, distills patterns in tho
 
 Confirmatory research, in turn, begins with a theory, makes predictions (often in the form of hypotheses), and evaluates whether those predictions hold true or not in empirical observations. To build a robust body of knowledge, we obviously need both exploratory and confirmatory research following complementary research methods (and qualitative and  data) to minimize bias and maximize the validity and reliability of our theories efficiently.
 
+## Conclusion
+
+We clearly see that reviewer 1 from the quote above was expecting an exploratory study, while we designed a confirmatory one. The choice of research method in our study could have given him a hint: How would you conduct an experiment with hypotheses (*predictions*) without an initial theory? The fact that our study revealed that our theory could not be confirmed is not a valid reason for rejection.
+
 ## TikZ Code
 
 In case the text or the figure above is helpful for your paper or your rejoinder, feel free to use the text and the TikZ graphic:
