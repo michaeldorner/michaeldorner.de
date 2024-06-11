@@ -7,13 +7,13 @@ showPagination: false
 
 ## The Researcher
 
-I love coding. I see beauty in code. Of course, not every code sparks joy, but nicely drafted, well-engineered software does. But what is well-engineered software? How can we make better software and how can we make software better? Finding answers to those fundamental questions of software engineering is at the core of what motivates me. I am particularly interested in two omnipresent aspects of modern software engineering: [code review]({{< ref "/research/code-review" >}}) and [open source]({{< ref "/research" >}}). Both are unique to software engineering and have a long history of existing research. Yet, their stories have not been told entirely.
+Software is neither visible nor tangible, yet it defines how we live, work, teach, learn, and research. Therefore, the advances in society, economy, education, and research depends highly on the quality of software. But how do we build better software?
 
-Although part of my work is qualitative, I love to crunch numbers, dig into large datasets, and apply all sorts of data analysis. In particular, I am an enthusiast of [simulations]({{< ref "/research/simulation" >}}) as an empirical research method in and for software engineering research.
+Finding answers to software engineering's fundamental questions is at the core of my motivation. I am particularly interested in the foundations of software engineering (for example, providing solid measurements for answering the questions) and bringing those foundations into practice (for example, to better understand and improve [code review]({{< ref "/research/code-review" >}}), to ensure [tax compliance for software engineering]({{< ref "/research/tax-compliance-in-software-engineering" >}})). Although part of my work is qualitative, I love to crunch numbers, dig into large datasets, and apply all sorts of data analysis. In particular, I am an enthusiast of [simulations]({{< ref "/research/simulation" >}}) as an empirical research method in and for software engineering research.
 
-Of course, my research is not a one-man show. I am grateful for working with the most brilliant researchers around the world and extraordinary industry partners. In different contexts, intensities, and research projects, I had the pleasure of working with Microsoft, Spotify, Facebook, Google, Trivago, Ericsson, Siemens, Continental, BlackDuck (now Synopsis), and others.
+In my research, I have the privilege to collaborate with outstanding scientists and prestigious companies like Google, Microsoft, Spotify, Siemens, Ericsson, BlackDuck (now Synopsis) and Trivago around the world.
 
-As an advocate for [open science]({{< ref "/research/open-science" >}}), all of my studies are freely available. For the studies of which I am the first author, I publish preprints, provide extensive replication packages, and make code and data publicly available.
+As an passionate advocate for [open science]({{< ref "/research/open-science" >}}), all of my studies are freely available. For the studies of which I am the first author, I publish preprints, provide extensive replication packages, and make code and data (to the extent legally and ethically possible) publicly available.
 
 ## The Entrepreneur
 
