@@ -25,7 +25,7 @@ Confirmatory research, in turn, begins with a theory, makes predictions (often i
 
 We clearly see that reviewer 1 from the quote above was expecting an exploratory study, while we designed a confirmatory one. The choice of research method in our study could have given him a hint: How would you conduct an experiment with hypotheses (*predictions*) without an initial theory? The fact that we could not confirm our theory is not a valid reason for rejection.
 
-## TikZ Code
+## Ti*k*Z Code
 
 In case the text or the figure above is helpful for your paper or your rejoinder, feel free to use the text and the TikZ graphic:
 
