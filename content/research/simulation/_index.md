@@ -1,5 +1,7 @@
 ---
 title: "Simulation"
+cascade:
+    groupByYear: False
 ---
 
 Simulations are experiments with a model. Simulations play to their strengths when traditional experiments would have been too complex, too expensive, too lengthy, or simply not possible or accessible otherwise. Those attributes match the objectives and setting of our research since experiments with whole software companies or open-source components are not feasible.
