@@ -13,7 +13,7 @@ Finding answers to software engineering's fundamental questions is at the core o
 
 In my research, I have the privilege to collaborate with outstanding scientists and prestigious companies like Google, Microsoft, Spotify, Siemens, Ericsson, BlackDuck (now Synopsis) and Trivago around the world.
 
-As an passionate advocate for [open science]({{< ref "/research/open-science" >}}), all of my studies are freely available. For the studies of which I am the first author, I publish preprints, provide extensive replication packages, and make code and data (to the extent legally and ethically possible) publicly available.
+As an passionate advocate for [open science](https://en.wikipedia.org/wiki/Open_science), all of my studies are freely available. For the studies of which I am the first author, I publish preprints, provide extensive replication packages, and make code and data (to the extent legally and ethically possible) publicly available.
 
 ## The Entrepreneur
 
