@@ -2,7 +2,7 @@
 title: "The Upper Bound of Information Diffusion in Code Review"
 date: 2024-01-03
 summary: "Michael Dorner, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka"
-research: ["simulation", "code review", "open science"]
+research: ["simulation", "code review"]
 venue: "EMSE"
 ---
 
