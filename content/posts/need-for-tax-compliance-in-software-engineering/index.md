@@ -1,8 +1,8 @@
 ---
 title: 'Need for Tax Compliance in Software Engineering'
 date: 2024-04-27
-description: "In third blog post in the series on tax compliance in software engineering, we will estimate the prevelance of cross-border collaboration, and therefore, the need for tax compliance in software engineering by measuring cross-border code review in a multinational software company."
-summary: "In third blog post in the series on tax compliance in software engineering, we will estimate the prevelance of cross-border collaboration, and therefore, the need for tax compliance in software engineering by measuring cross-border code review in a multinational software company."
+description: "In third and last blog post in the series on tax compliance in software engineering, we will estimate the prevelance of cross-border collaboration, and therefore, the need for tax compliance in software engineering by measuring cross-border code review in a multinational software company."
+summary: "In third and last blog post in the series on tax compliance in software engineering, we will estimate the prevelance of cross-border collaboration, and therefore, the need for tax compliance in software engineering by measuring cross-border code review in a multinational software company."
 research: ["tax compliance in software engineering", "code review"]
 series: 
     - "Tax Compliance for Software Engineering"
