@@ -36,7 +36,7 @@ jobs:
         server: s145.goserver.host
         port: 22
         local_path: './public/*'
-        remote_path: ''/home/www/michaeldorner.de/'
+        remote_path: '/home/www/michaeldorner.de/'
         sftp_only: true
         password: ${{ secrets.SFTP_PASSWORD }}
       
