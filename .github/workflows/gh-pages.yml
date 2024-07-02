@@ -30,7 +30,7 @@ jobs:
         publish_dir: ./public
 
     - name: "Deploy to Webgo"
-      uses: Atyn/Simple-SFTP
+      uses: Atyn/simple-sftp-action@0.0.2
       with:
         url: sftp://${{ secrets.SFTP_USERNAME }}:${{ secrets.SFTP_PASSWORD }}@s145.goserver.host.com/home/www/michaeldorner.de/
         local-directory: './public/*'
