@@ -34,6 +34,6 @@ jobs:
       with:
         remote-protocol: "sftp"
         remote-host: "s145.goserver.host"
-        remote-user: "web42"
-        ssh-private-key: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+        remote-user: ${{ secrets.SFTP_USER }}
+        remote-password: ${{ secrets.SFTP_PASSWORD }}
         remote-path: "/home/www/michaeldorner.de/"
