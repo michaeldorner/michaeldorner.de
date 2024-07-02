@@ -29,22 +29,16 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
 
+    - name: Install SSH Client and SSHPass
+      run: sudo apt-get update && sudo apt-get install -y openssh-client sshpass
 
-
-    - name: "Deploy to Webgo"
-      uses: milanmk/actions-file-deployer@master
-      with:
-        remote-protocol: sftp
-
-        # Credentials for SFTP access to server using GitHub secrets
-        remote-host: s145.goserver.host
-        remote-user: ${{ secrets.SFTP_USER }}
-        remote-password: ${{ secrets.SFTP_PASSWORD }}
-
-        local-path: ./public/
-        remote-path: /home/www/michaeldorner.de/
-
-        # Port for SFTP access to server
-        remote-port: 22
-        sync: full
-        debug: true
+    - name: Upload files via SFTP
+      env:
+        SFTP_HOST:  "s145.goserver.host"
+        SFTP_USERNAME: ${{ secrets.SFTP_USERNAME }}
+        SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+      run: |
+        sshpass -p "$SFTP_PASSWORD" sftp -o StrictHostKeyChecking=no $SFTP_USERNAME@$SFTP_HOST <<EOF
+          mkdir -p $SFTP_TARGET_DIR
+          put -r public/* /home/www/michaeldorner.de/
+          bye
