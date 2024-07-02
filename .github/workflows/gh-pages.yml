@@ -38,7 +38,7 @@ jobs:
       with:
         server: s145.goserver.host
         username: ${{ secrets.SFTP_USERNAME }}
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.SFFT_PASSWORD }}
         local-dir: ./public/
         server-dir: /home/www/michaeldorner.de/
 
