@@ -29,16 +29,12 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
 
-
-
-
-
     - name: "Deploy to Webgo"
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: s145.goserver.host
-        username: ${{ secrets.SFTP_USERNAME }}
-        password: ${{ secrets.SFFT_PASSWORD }}
+        server: ${{ secrets.SFTP_SERVER }}
+        username: ${{ secrets.SFTP_USER }}
+        password: ${{ secrets.SFTP_PASSWORD }}
         local-dir: ./public/
         server-dir: /home/www/michaeldorner.de/
 
