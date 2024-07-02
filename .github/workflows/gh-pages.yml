@@ -29,8 +29,20 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
 
+
+
+
+
     - name: "Deploy to Webgo"
-      uses: Atyn/simple-sftp-action@0.0.2
+      uses: Dylan700/sftp-upload-action@latest
       with:
-        url: sftp://${{ secrets.SFTP_USERNAME }}:${{ secrets.SFTP_PASSWORD }}@s145.goserver.host.com/home/www/michaeldorner.de/
-        local-directory: './public/*'
+        server: s145.goserver.host
+        username: ${{ secrets.SFTP_USERNAME }}
+        password: ${{ secrets.SFTP_PASSWORD }}
+        port: 22
+        uploads: |
+          ./public/ => home/www/michaeldorner.de/
+        ignore: |
+          *.git
+          */**/*git*
+
