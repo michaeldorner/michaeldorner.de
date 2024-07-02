@@ -34,7 +34,11 @@ jobs:
 
 
     - name: "Deploy to Webgo"
-      uses: Atyn/simple-sftp-action@0.0.2
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        url: sftp://${{ secrets.SFTP_USERNAME }}:${{ secrets.SFTP_PASSWORD }}@s145.goserver.host/home/www/michaeldorner.de/
-        local-directory: './public/*'
+        server: s145.goserver.host
+        username: ${{ secrets.SFTP_USERNAME }}
+        password: ${{ secrets.ftp_password }}
+        local-dir: ./public/
+        server-dir: /home/www/michaeldorner.de/
+
