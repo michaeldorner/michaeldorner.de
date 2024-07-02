@@ -32,11 +32,11 @@ jobs:
     - name: "Deploy to Webgo"
       uses: wlixcc/SFTP-Deploy-Action@v1.2.4
       with:
-          username: ${{ secrets.SFTP_USERNAME }}
-          server: s145.goserver.host
-          port: 22
-          local_path: './public/*'
-          remote_path: ''/home/www/michaeldorner.de/'
-          sftp_only: true
-          password: ${{ secrets.SFTP_PASSWORD }}
+        username: ${{ secrets.SFTP_USERNAME }}
+        server: s145.goserver.host
+        port: 22
+        local_path: './public/*'
+        remote_path: ''/home/www/michaeldorner.de/'
+        sftp_only: true
+        password: ${{ secrets.SFTP_PASSWORD }}
       
