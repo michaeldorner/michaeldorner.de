@@ -1,4 +1,4 @@
-name: Deploy site to GitHub Pages
+name: Deploy site
 
 on:
   push:
@@ -23,8 +23,17 @@ jobs:
         TZ: 'Europe/Berlin'
       run: hugo --minify
 
-    - name: Deploy
+    - name: "Deploy to GitHub Pages"
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
+
+    - name: "Deploy to Webgo"
+      uses: milanmk/actions-file-deployer@master
+      with:
+        remote-protocol: "sftp"
+        remote-host: "s145.goserver.host"
+        remote-user: "web42"
+        ssh-private-key: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+        remote-path: "/home/www/michaeldorner.de/"
