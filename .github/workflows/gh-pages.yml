@@ -30,13 +30,7 @@ jobs:
         publish_dir: ./public
 
     - name: "Deploy to Webgo"
-      uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+      uses: Atyn/Simple-SFTP
       with:
-        username: ${{ secrets.SFTP_USERNAME }}
-        server: s145.goserver.host
-        port: 22
-        local_path: './public/*'
-        remote_path: '/home/www/michaeldorner.de/'
-        sftp_only: true
-        password: ${{ secrets.SFTP_PASSWORD }}
-      
+        url: sftp://${{ secrets.SFTP_USERNAME }}:${{ secrets.SFTP_PASSWORD }}@s145.goserver.host.com/home/www/michaeldorner.de/
+        local-directory: './public/*'
