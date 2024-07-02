@@ -22,7 +22,10 @@ jobs:
     - name: Build
       env:
         TZ: 'Europe/Berlin'
-      run: hugo --minify
+      run: hugo --minify | ls public/*
+
+    - name: List files
+      run: ls ./public/*
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
