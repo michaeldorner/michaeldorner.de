@@ -30,12 +30,13 @@ jobs:
         publish_dir: ./public
 
     - name: "Deploy to Webgo"
-      id: connect
-      uses: danhendrickson/sftp-transfer-action@v1.23
+      uses: wlixcc/SFTP-Deploy-Action@v1.2.4
       with:
-        server: s145.goserver.host
-        user: ${{ secrets.SFTP_USER }}
-        pass: ${{ secrets.SFTP_PASSWORD }}
-        port: 22
-        local-path: './public/'
-        remote-path: '/home/www/michaeldorner.de/'
+          username: ${{ secrets.SFTP_USERNAME }}
+          server: s145.goserver.host
+          port: 22
+          local_path: './public/*'
+          remote_path: ''/home/www/michaeldorner.de/'
+          sftp_only: true
+          password: ${{ secrets.SFTP_PASSWORD }}
+      
