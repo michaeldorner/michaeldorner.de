@@ -6,10 +6,6 @@ on:
       - main
 
 jobs:
-  concurrency:
-    group: "pages"
-    cancel-in-progress: false
-
   build:
     runs-on: ubuntu-latest
     steps:
