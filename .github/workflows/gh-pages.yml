@@ -37,4 +37,3 @@ jobs:
         password: ${{ secrets.SFTP_PASSWORD }}
         local-dir: ./public/
         server-dir: /home/www/michaeldorner.de/
-
