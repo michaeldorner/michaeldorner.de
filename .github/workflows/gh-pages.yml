@@ -1,4 +1,4 @@
-name: Publish site to GitHub Pages
+name: Deploy site to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Git checkout 
@@ -23,11 +23,8 @@ jobs:
         TZ: 'Europe/Berlin'
       run: hugo --minify
 
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
