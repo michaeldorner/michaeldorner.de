@@ -23,17 +23,9 @@ jobs:
         TZ: 'Europe/Berlin'
       run: hugo --minify
 
-    - name: "Deploy to GitHub Pages"
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+    # - name: "Deploy to GitHub Pages"
+    #   uses: peaceiris/actions-gh-pages@v3
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     publish_dir: ./public
 
-    - name: "Deploy to Webgo"
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-      with:
-        server: ${{ secrets.SFTP_SERVER }}
-        username: ${{ secrets.SFTP_USER }}
-        password: ${{ secrets.SFTP_PASSWORD }}
-        local-dir: ./public/
-        server-dir: /home/www/michaeldorner.de/
