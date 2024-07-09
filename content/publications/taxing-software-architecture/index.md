@@ -2,7 +2,7 @@
 title: "Describing Globally Distributed Software Architectures for Tax Compliance"
 summary: "Michael Dorner, Maximilian Capraro, Oliver Treidler, Tom-Eric Kunz, Darja Šmite, Ehsan Zabardast, Daniel Mendez, and Krzysztof Wnuk"
 date: 2023-12-01
-research: ["tax compliance in software engineering", "software architecture", "simulation"]
+research: ["tax compliance in software engineering", "software architecture"]
 venue: ["EMSE"]
 ---
 
