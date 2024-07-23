@@ -25,7 +25,7 @@ Together with an interdisciplinary team of researchers, we discovered that [coll
 
 I am thrilled to be part of this journey to develop a software solution for tax compliance in software engineering at [Kolabri](https://www.kolabri.io).
 
-Learn more about Kolabri and tax-compliance-as-a-service on [www.kolabri.io](www.kolabri.io).
+Learn more about Kolabri and tax-compliance-as-a-service on [www.kolabri.io](https://www.kolabri.io).
 
 ## The Consultant
 
