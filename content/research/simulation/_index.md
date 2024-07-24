@@ -7,3 +7,4 @@ Simulations are experiments with a model. Simulations play to their strengths wh
 Since all models are abstractions and, accordingly, simplifications of reality, the quality of an simulation highly depends on the quality of the simulation model and its parametrization.
 
 If all parts of the experiment, i.e., the actors, their behaviours, and the context, are modelled as software, the simulation becomes an in-silico experiment or simply a computer simulation.
+
