@@ -24,7 +24,7 @@ To comply with the arm's length principle, Microsoft US and Microsoft Ireland ne
 
 Transfer prices are the prices at which an enterprise transfers physical goods and intangibles or provides services to associated enterprises. Since software is intangible itself, the transfer of intangibles like source code, components, code reviews, bug reports, etc., is our focal point. This transfer price guarantees that Microsoft US gets its share of the profit, which then can be taxed by the US tax authorities.
 
-In the following figure, we provide a schematic overview of transfer pricing from our simplified example. Although Microsoft US contributed significantly to Windows, the product that is sold in Europe, without a transfer price, Microsoft US has no share of profits; all profits are fully taxable in Ireland only. However, if Microsoft Ireland pays a transfer price reflecting the value of the services and intangible properties received from its associated enterprise in the US, Microsoft US realizes profits which then are taxable in Sweden.
+In the following figure, we provide a schematic overview of transfer pricing from our simplified example. Although Microsoft US contributed significantly to Windows, the product that is sold in Europe, without a transfer price, Microsoft US has no share of profits; all profits are fully taxable in Ireland only. However, if Microsoft Ireland pays a transfer price reflecting the value of the services and intangible properties received from its associated enterprise in the US, Microsoft US realizes profits which then are taxable in US.
 
 {{< figure
     src="overview.png"
@@ -42,7 +42,7 @@ In the software engineering context and in layman's terms, a CCA is a contractua
 
 ## The Microsoft Case
 
-Now that we understand the core principles by reference to our simplified setup, we can now look into the actual case. Please note that we heavily rely on the article by [Curtis and Avi-Yonah from 22023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433618) who published a detailed account of the Microsoft case in Tax Notes International in March 2023 for this article because detailed information on the tax audit itself is not publicly available. However, the careful and thorough analysis by Curtis and Avi-Yonah allows us to draw conclusions on Microsoft's tax compliance approach for their software engineering and why the tax audit escalated.
+Now that we understand the core principles by reference to our simplified setup, we can now look into the actual case. Please note that we heavily rely on the article by [Curtis and Avi-Yonah from 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433618) who published a detailed account of the Microsoft case in Tax Notes International in March 2023 for this article because detailed information on the tax audit itself is not publicly available. However, the careful and thorough analysis by Curtis and Avi-Yonah allows us to draw conclusions on Microsoft's tax compliance approach for their software engineering and why the tax audit escalated.
 
 The controversial point boils down to one question: Is Microsoft Ireland a legit participant of the CCA or is Microsoft shifting profits from the US, where the intellectual property, i.e., the software was actually created and developed, to Ireland and profiting from a corporate income tax there?
 
