@@ -1,14 +1,6 @@
 ---
 title: Publications 
-description: "All my publications freely available"
-showTableOfContents: true
-showDate: false
-showSummary: true
-
-cascade:
-  showAuthor: false
-  showDate: false
-  showSummary: true
+description: "All my publications, freely available"
 ---
 
 {{< alert >}}

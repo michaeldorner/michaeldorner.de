@@ -43,6 +43,7 @@ defaultBackgroundImage = "/img/background.svg"
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
+  showPagination = false
   showReadingTime = false
   showTableOfContents = true
   showRelatedContent = false
