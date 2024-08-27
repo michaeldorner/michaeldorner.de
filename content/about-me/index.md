@@ -11,7 +11,7 @@ Software is neither visible nor tangible, yet it defines how we live, work, teac
 
 Finding answers to software engineering's fundamental questions is at the core of my motivation. I am particularly interested in the foundations of software engineering (for example, providing solid measurements for answering the questions) and bringing those foundations into practice (for example, to better understand and improve [code review]({{< ref "/research/code-review" >}}), to ensure [tax compliance for software engineering]({{< ref "/research/tax-compliance-in-software-engineering" >}})). Although part of my work is qualitative, I love to crunch numbers, dig into large datasets, and apply all sorts of data analysis. In particular, I am an enthusiast of [simulations]({{< ref "/research/simulation" >}}) as an empirical research method in and for software engineering research.
 
-In my research, I have the privilege to collaborate with outstanding scientists and prestigious companies like Google, Microsoft, Spotify, Siemens, Ericsson, BlackDuck (now Synopsis) and Trivago around the world.
+In my research, I have the privilege to collaborate with outstanding scientists around the world and with prestigious companies, such as Google, Facebook, Microsoft, Spotify, Siemens, Ericsson, BlackDuck (now Synopsis), and Trivago.
 
 As an passionate advocate for [open science](https://en.wikipedia.org/wiki/Open_science), all of my studies are freely available. For the studies of which I am the first author, I publish preprints, provide extensive replication packages, and make code and data (to the extent legally and ethically possible) publicly available.
 
