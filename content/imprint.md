@@ -8,6 +8,7 @@ showPagination: false
 Michael Dorner<br>
 Saarlandstr. 2<br>
 92318 Neumarkt
+Germany
 
 Telefon: 0176 56802212<br>
 E-Mail: mail@michaeldorner.de
