@@ -1,4 +1,4 @@
-name: Deploy Hugo site
+name: Deploy Hugo site via SCP
 
 on:
   push:
@@ -13,8 +13,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+        submodules: true 
+        fetch-depth: 0
 
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
@@ -24,3 +24,12 @@ jobs:
 
     - name: Build the Hugo site
       run: hugo --minify
+
+    - name: Deploy via SCP using Password
+      env:
+        SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
+        REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+        REMOTE_USER: ${{ secrets.REMOTE_USER }}
+        REMOTE_PATH: ${{ secrets.REMOTE_PATH }}
+      run: |
+        sshpass -p "$SSH_PASSWORD" scp -r -o StrictHostKeyChecking=no public/* $REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH
