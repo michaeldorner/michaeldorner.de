@@ -1,18 +1,19 @@
 ---
 title: "Only Time Will Tell: Modelling Information Diffusion in Code Review with Time-Varying Hypergraphs"
-summary: "Michael Dorner, Darja Smite, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka"
 date: 2022-09-20
 research: ["simulation", "code review"]
 venue : "ESEM"
+authors:
+    - Michael Dorner
+    - Darja Šmite
+    - Daniel Mendez
+    - Krzysztof Wnuk
+    - Jacek Czerwonka
 ---
 
 {{< alert "award">}}
 **Best Paper Award at ESEM'22**
 {{< /alert >}}
-
-## Authors
-
-Michael Dorner, Darja Smite, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka
 
 ## Abstract
 

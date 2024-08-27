@@ -1,14 +1,14 @@
 ---
 title: "The Microsoft Case: Lessons for Post-BEPS Software Development Cost Contribution Arrangements"
-summary: "Oliver Treidler, Tom-Eric Kunz, Michael Dorner, Maximilian Capraro"
 date: 2024-07-09
 research: ["tax compliance in software engineering", "software architecture", "code review"]
 venue: ["TNI"]
+authors:
+    - Oliver Treidler
+    - Tom-Eric Kunz
+    - Michael Dorner
+    - Maximilian Capraro
 ---
-
-## Authors
-
-Oliver Treidler, Tom-Eric Kunz, Michael Dorner, and Maximilian Capraro
 
 ## Abstract
 

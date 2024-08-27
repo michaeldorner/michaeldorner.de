@@ -23,6 +23,7 @@ buildFuture = false
   research = "research"
   venue = "venues"
   series = "series"
+  authors = "authors"
 
 [sitemap]
   changefreq = 'daily'
