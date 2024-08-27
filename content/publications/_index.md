@@ -1,7 +1,6 @@
 ---
 title: Publications 
 description: "All my publications, freely available"
-showAuthorsBadges: true
 cascade:
     showAuthorsBadges: true
     showDate: false
