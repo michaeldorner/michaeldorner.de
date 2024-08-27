@@ -7,7 +7,7 @@ showPagination: false
 
 Michael Dorner<br>
 Saarlandstr. 2<br>
-92318 Neumarkt
+92318 Neumarkt<br>
 Germany
 
 Telefon: 0176 56802212<br>
