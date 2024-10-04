@@ -7,7 +7,7 @@ showPagination: false
 
 ## The Researcher
 
-Software is neither visible nor tangible, yet it defines how we live, work, teach, learn, and research. Therefore, the advances in society, economy, education, and research depends highly on the quality of software. But how do we build better software?
+Software is neither visible nor tangible, yet it defines how we live, work, teach, learn, and research. Therefore, advances in society, economy, education, and research depend highly on the quality of software. But how do we build better software and how do we build software better?
 
 Finding answers to software engineering's fundamental questions is at the core of my motivation. I am particularly interested in the foundations of software engineering (for example, providing solid measurements for answering the questions) and bringing those foundations into practice (for example, to better understand and improve [code review]({{< ref "/research/code-review" >}}), to ensure [tax compliance for software engineering]({{< ref "/research/tax-compliance-in-software-engineering" >}})). Although part of my work is qualitative, I love to crunch numbers, dig into large datasets, and apply all sorts of data analysis. In particular, I am an enthusiast of [simulations]({{< ref "/research/simulation" >}}) as an empirical research method in and for software engineering research.
 
