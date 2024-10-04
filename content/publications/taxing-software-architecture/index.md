@@ -18,10 +18,6 @@ authors:
 Preprint - submitted to EMSE
 {{< /alert >}}
 
-## Authors
-
-Michael Dorner, Maximilian Capraro, Oliver Treidler, Tom-Eric Kunz, Darja Šmite, Ehsan Zabardast, Daniel Mendez, and Krzysztof Wnuk
-
 ## Abstract
 
 **Background:** The company-internal reuse of software components owned by organizational units in different countries constitutes an implicit licensing across borders, which is taxable. This makes tax authorities a less known stakeholder in software architectures.
