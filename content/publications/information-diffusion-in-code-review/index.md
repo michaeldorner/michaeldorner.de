@@ -35,6 +35,6 @@ Download PDF
 
 ## Meta
 
-- DOI: [10.48550/arXiv.2306.08980](https://doi.org/10.48550/arXiv.2306.08980)
+- DOI: [10.1007/s10664-024-10442-y](https://doi.org/10.1007/s10664-024-10442-y)
 - arxiv: https://arxiv.org/abs/2306.08980
-- Publisher: Springer
+- Publisher: [Springer](https://link.springer.com/article/10.1007/s10664-024-10442-y)
