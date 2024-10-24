@@ -1,6 +1,6 @@
 ---
 title: "Measuring Information Diffusion in Code Review at Spotify"
-date: 2024-07-09
+date: 2024-10-24
 research: ["code review", "information diffusion", "preprint"]
 venue: ["EMSE", "ESEM"]
 authors:
