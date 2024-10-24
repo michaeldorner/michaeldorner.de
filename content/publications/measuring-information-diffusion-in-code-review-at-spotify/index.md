@@ -19,14 +19,18 @@ authors:
 
 Method: We approximate the information diffusion in code review through the frequency and the similarity between (1) human participants, (2) affected components, and (3) involved teams of linked code reviews. The measurements approximating the information diffusion in code review serve as a foundation for falsifying the theory of code review as communication network.
 
-## Download
+## Downloads
 
-{{< button href="information-diffusion-boundaries.pdf" target="_self" >}}
+### Article
+
+{{< button href="measuring-information-diffusion.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
 
-{{< button href="information-diffusion-boundaries.pdf" target="_self" >}}
-Download Poster
+### Poster
+
+{{< button href="measuring-information-diffusion-poster.pdf" target="_self" >}}
+Download PDF
 {{< /button >}}
 
 ## Meta

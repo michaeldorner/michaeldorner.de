@@ -21,11 +21,19 @@ showDate: false
 
 **Results:** An average code review participants in the small and mid-sized code review systems can spread information to between 72% and 85% of all code review participants within four weeks independently of network size and tooling; for the large code review systems, we found an absolute boundary of about 11000  reachable participants. On average (median), information can spread between two participants in code review in less than five hops and less than five days.
 
-**Conclusion:** We found evidence that the communication network emerging from code review scales well and spreads information fast and broadly, corroborating the findings of prior qualitative work. The study lays the foundation for understanding and improving code review as a communication network. 
+**Conclusion:** We found evidence that the communication network emerging from code review scales well and spreads information fast and broadly, corroborating the findings of prior qualitative work. The study lays the foundation for understanding and improving code review as a communication network.
 
-## Download
+## Downloads
+
+### Article
 
 {{< button href="information-diffusion-boundaries.pdf" target="_self" >}}
+Download PDF
+{{< /button >}}
+
+### Presentation
+
+{{< button href="information-diffusion-boundaries-presentation.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
 
