@@ -1,7 +1,7 @@
 ---
 title: "Measuring Information Diffusion in Code Review at Spotify"
 date: 2024-10-24
-research: ["code review", "information diffusion", "preprint"]
+research: ["code review", "information diffusion", "registered report"]
 venue: ["EMSE", "ESEM"]
 authors:
     - Michael Dorner
@@ -21,7 +21,7 @@ Method: We approximate the information diffusion in code review through the freq
 
 ## Downloads
 
-### Article
+### Registered Report
 
 {{< button href="measuring-information-diffusion.pdf" target="_self" >}}
 Download PDF
