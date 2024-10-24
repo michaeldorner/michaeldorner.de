@@ -1,7 +1,7 @@
 ---
 title: "Only Time Will Tell: Modelling Information Diffusion in Code Review with Time-Varying Hypergraphs"
 date: 2022-09-20
-research: ["simulation", "code review"]
+research: ["simulation", "code review", "information diffusion"]
 venue : "ESEM"
 authors:
     - Michael Dorner

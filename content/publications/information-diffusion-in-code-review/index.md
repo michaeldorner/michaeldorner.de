@@ -1,7 +1,7 @@
 ---
 title: "The Upper Bound of Information Diffusion in Code Review"
 date: 2024-01-03
-research: ["simulation", "code review"]
+research: ["simulation", "code review", "information diffusion"]
 venue: "EMSE"
 authors:
     - Michael Dorner
