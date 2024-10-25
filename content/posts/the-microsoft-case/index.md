@@ -1,5 +1,5 @@
 ---
-title: 'Tax Compliance in Software Engineering: The 30-Billion-Dollar Software Engineering Problem'
+title: "Tax Compliance in Software Engineering: The 30-Billion-Dollar Software Engineering Problem"
 date: 2024-07-09
 description: "On the 11th of October 2023, Microsoft published an update about its ongoing audit with the U.S. Internal Revenue Service (IRS), according to which the IRS alleges that Microsoft owes an additional $28.9 billion in tax, plus penalties and interest. In this blog post, we explain the background of this legal dispute and discuss why this lawsuit boils down to a software engineering problem and how software engineering research can remediate it."
 summary: "On the 11th of October 2023, Microsoft published an update about its ongoing audit with the U.S. Internal Revenue Service (IRS), according to which the IRS alleges that Microsoft owes an additional $28.9 billion in tax, plus penalties and interest. In this blog post, we explain the background of this legal dispute and discuss why this lawsuit boils down to a software engineering problem and how software engineering research can remediate it."
