@@ -1,5 +1,7 @@
 ---
 title: "Visualizing Information Diffusion in Python"
+description: ""
+summary: ""
 date: 2024-10-25
 research: ["information diffusion", "code review"]
 ---
