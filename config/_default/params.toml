@@ -17,8 +17,8 @@ smartTOCHideUnfocusedChildren = true
 showViews = false
 showLikes = false
 robots = "all"
-defaultBackgroundImage = "/img/background.svg"
-#defaultFeaturedImage = "/img/featured.svg"
+# defaultBackgroundImage = "/img/background.svg"
+# defaultFeaturedImage = "/img/featured.svg"
 
 [header]
   layout = "fixed" # valid options: basic, fixed
@@ -32,11 +32,12 @@ defaultBackgroundImage = "/img/background.svg"
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "IMAGE.jpg" # used in: hero, and card
+  # homepageImage = "img/me.jpg" # used in: hero, and card
   showRecent = false
 
 [article]
   showDate = true
+  showAuthor = true
   showAuthorBottom = true
   showHero = false
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
