@@ -8,10 +8,10 @@ title = "Michael Dorner"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2, 2006"
-  #logo = "img/blowfish_logo_transparent.png"
+  # logo = "img/me.jpg"
   description = "How to make software better and how to to make better"
 
-[author]
+[params.author]
   name = "Michael Dorner"
   image = "img/me.jpg"
   headline = "Software engineering researcher"
