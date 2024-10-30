@@ -7,7 +7,7 @@ showTableOfContents: false
 showAuthor: true
 ---
 
-Feel free to reach out! Drop me an [e-mail](mailto:mail@michaeldorner.de) or find me on the following platforms
+Feel free to reach out: Drop me an [e-mail](mailto:mail@michaeldorner.de) or find me on the following platforms
 
 [{{< icon mastodon >}} &nbsp; Mastodon](https://mastodon.social/@michaeldorner)
 
