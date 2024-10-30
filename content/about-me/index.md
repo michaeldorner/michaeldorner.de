@@ -3,7 +3,6 @@ title: About me
 description: "About Michael Dorner"
 showDate: false
 showPagination: false
-showAuthor: false
 ---
 
 ## The Researcher
