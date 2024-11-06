@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Information Diffusion in Python"
-description: "For my journal-first presentation at ESEM 2024 on our work on [the upper bound of information diffusion in code review, I prepared a visualization to make the idea of our simulation easier understandible. In this blogpost, you can find the Python code for the visualization."
-summary: "For my journal-first presentation at ESEM 2024 on our work on [the upper bound of information diffusion in code review, I prepared a visualization to make the idea of our simulation easier understandible. In this blogpost, you can find the Python code for the visualization."
+description: "For my journal-first presentation at ESEM 2024 on our work on the upper bound of information diffusion in code review, I prepared a visualization to make the idea of our simulation easier understandible. In this blogpost, you can find the Python code for the visualization."
+summary: "For my journal-first presentation at ESEM 2024 on our work on the upper bound of information diffusion in code review, I prepared a visualization to make the idea of our simulation easier understandible. In this blogpost, you can find the Python code for the visualization."
 date: 2024-10-25
 research: ["information diffusion", "code review"]
 ---
