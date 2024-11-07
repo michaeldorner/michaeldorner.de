@@ -32,10 +32,6 @@ Preprint - submitted to ECEASST
 Download PDF
 {{< /button >}}
 
-## Replication Package
-
-{{< github repo="michaeldorner/information-diffusion-boundaries-in-code-review" >}}
-
 ## Meta
 
 - DOI: [10.48550/arXiv.2405.11965](https://doi.org/10.48550/arXiv.2405.11965)
