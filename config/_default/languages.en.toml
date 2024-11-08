@@ -9,11 +9,12 @@ title = "Michael Dorner"
   rtl = false
   dateFormat = "January 2, 2006"
   # logo = "img/me.jpg"
-  description = "How to make software better and how to to make better"
+  description = "Here you can find blog posts, talks, and scientific publications on my research about how to build software better and how to build better software."
 
 [params.author]
   name = "Michael Dorner"
   image = "img/me.jpg"
+  imageQuality = 100
   headline = "Software engineering researcher"
   bio = "Software engineering researcher"
   links = [
