@@ -69,6 +69,7 @@ robots = "all"
   excludedKinds = []
 
 [verification]
+  fediverse = "@michaeldorner@mastodon.social"
   # google = ""
   # bing = ""
   # pinterest = ""
