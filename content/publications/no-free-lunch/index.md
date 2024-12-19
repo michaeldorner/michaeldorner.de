@@ -11,7 +11,7 @@ showDate: false
 ---
 
 {{< alert>}}
-Preprint - submitted to ECEASST
+Preprint - under review at Journal of Open Research Software
 {{< /alert >}}
 
 ## Abstract
