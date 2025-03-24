@@ -1,14 +1,14 @@
 ---
-title: "Dissertation Status Page"
-description: "A status page for my cumulative, publication-based doctoral thesis on code review as communication network"
+title: "Code Review as a Communication Network"
+description: "A concise page about my cumulative, publication-based doctoral thesis on code review as communication network"
 showDate: false
 showPagination: false
 ---
 
-This website serves as status page for my cumulative, publication-based doctoral thesis on code review as communication network.
+This page offers an overview of my cumulative, publication-based doctoral thesis.
 
-{{< alert cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-Work in progress!
+{{< alert >}}
+Work in Progress!
 {{< /alert >}}
 
 ## Abstract
@@ -19,9 +19,9 @@ Work in progress!
 
 **Methods:** We quantify information diffusion using two complementary research approaches: On the one hand, we conducted an observational study to measure the information diffusion in code review across social, organizational, and architectural boundaries. On the other hand, we developed and conducted *in-silico* experiments to estimate the upper bound of information diffusion in closed-source and open-source code review.
 
-**Results** Neither the measurements of information diffusion across social, organizational, and architectural boundaries nor the upper bound of information diffusion in open-source and closed-source code review could falsify the theory of code review as communication network. In fact, we found evidence that code review is capable of spreading information among its participants at  scale.
+**Results** Neither the measurements of information diffusion across social, organizational, and architectural boundaries nor the upper bound of information diffusion in open-source and closed-source code review could falsify the theory of code review as communication network. In fact, we found evidence that code review is capable of spreading information among its participants at scale.
 
-**Conclusion:** Our work advances the understanding of code review as a communication network. By that, we contributed not only to a theory-driven and empirical software engineering research, we also lay the foundation for a practical implications: Code review as a communication network serves as a measurable proxy for cross-border collaboration, which is taxable. We conclude by exploring how advances in machine learning may shape the future of code review as a communication network.
+**Conclusion:** Our work on understanding of code review as a communication network contributes not only to theory-driven, empirical software engineering research but also lays the foundation for practical like code review as a measurable and solid proxy for cross-border collaboration in the context of tax compliance and future research on how advancements in machine learning could shape the future of code review.
 
 ## Introduction[^1]
 
@@ -31,20 +31,14 @@ Work in progress!
 Comming soon
 {{< /alert >}}
 
+## Publications
+
+{{< alert >}}
+Comming soon
+{{< /alert >}}
+
 ## Schedule
 
-{{< timeline >}}
-
-{{< timelineItem header="Status page available" badge="2025-03-25" >}}
-Create a concise status page to track dissertation progress
-{{< /timelineItem >}}
-
-{{< timelineItem icon="clock-regular" header="Dissertation available" badge="July 2025" >}}
-Provide the final version of my dissertation as a downloadable PDF.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="clock-regular" header="Defense" badge="August 2025" >}}
-Defend my dissertation at Blekinge Institute of Technology
-{{< /timelineItem >}}
-
-{{< /timeline >}}
+{{< alert >}}
+Comming soon
+{{< /alert >}}
