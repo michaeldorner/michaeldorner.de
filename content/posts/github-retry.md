@@ -3,7 +3,6 @@ title: "Retry for GitHub API"
 description: "Mining data from GitHub comes with challenges like errors, timeouts, and rate limits. I built a small and robust GitHubRetry class for the requests Python library."
 summary: "Mining data from GitHub comes with challenges like errors, timeouts, and rate limits. I built a small and robust  GitHubRetry class for the requests Python library."
 date: 2025-03-08
-research: ["research software engineering"]
 ---
 
 As a software engineering researcher, you may need to mine data from GitHub.com or its Enterprise instances, as GitHub has become a---maybe even the major platform for collaborative software engineering. However, like any distributed system, GitHub is prone to errors, timeouts, and connection issues. Additionally, the strict [rate limits](https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api) add another challenge—demanding time and effort that, unfortunately, is often undervalued in academia.
