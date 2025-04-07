@@ -31,11 +31,18 @@ Work in Progress!
 Comming soon
 {{< /alert >}}
 
-## Publications
+## Overview of Publication
 
-{{< alert >}}
-Comming soon
-{{< /alert >}}
+This section describes the main contributions of my thesis. Aside from the introduction, each chapter is based on a scientific manuscript submitted to a peer-reviewed publication.
+
+| Chapter | Study | Link |
+|---|---|---|
+| Chapter&nbsp;1 | Michael Dorner, Daniel Mendez, Ehsan Zabardast, Nicole Valdez, and Marcin Floryan. *Measuring Information Diffusion in Code Review at Spotify*. In: Empirical Software Engineering (Oct. 2024). Accepted as registered report. | [{{< icon "open-access" >}}](https://conf.researchr.org/details/esem-2024/esem-2024-registered-reports/3/Measuring-Information-Diffusion-in-Code-Review-at-Spotify) [{{< icon "open-data" >}}]() |
+| Chapter&nbsp;2 | Michael Dorner, Darja Šmite, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka. *Only Time Will Tell: Modelling Information Diffusion in Code Review with Time-Varying Hypergraphs*. In: ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). ACM, Sept. 2022, pp. 195-204. DOI: 10.1145/ 3544902.3546254 | [{{< icon "open-access" >}}](https://dl.acm.org/doi/10.1145/3544902.3546254) [{{< icon "open-data" >}}](https://github.com/michaeldorner/only-time-will-tell) |
+| Chapter&nbsp;3 | Michael Dorner, Daniel Mendez, Krzysztof Wnuk, Ehsan Zabardast, and Jacek Czerwonka. *The Upper Bound of Information Diffusion in Code Review*. In: Empirical Software Engineering (June 2023) | [{{< icon "open-access" >}}](https://link.springer.com/article/10.1007/s10664-024-10442-y) [{{< icon "open-data" >}}](https://github.com/michaeldorner/information-diffusion-boundaries-in-code-review) |
+| Chapter&nbsp;4 | Michael Dorner and Daniel Mendez. *The Capability of Code Review as Communication Network*. In: Transactions on Software Engineering and Methods (2025). To be submitted. | [{{< icon "arxiv" >}}]() [{{< icon "open-data" >}}]() |
+| Chapter&nbsp;5 | Michael Dorner, Maximilian Capraro, Oliver Treidler, Tom-Eric Kunz, Darja Šmite, Ehsan Zabardast, Daniel Mendez, and Krzysztof Wnuk. *Taxing Collaborative Software Engineering*. In: IEEESoftware (2024), pp. 1-8. DOI: 10.1109/MS.2023.3346646 | [{{< icon "open-access" >}}](https://www.computer.org/csdl/magazine/so/2024/04/10374093/1TaCXGcl2i4) [{{< icon "open-data" >}}]() |
+| Chapter&nbsp;6 | Michael Dorner, Andreas Bauer, Darja Šmite, Ehsan Zabardast, Ricardo Britto, and Daniel Mendez. *Quo Vadis, Code Review?* In: IEEE Software (2025), pp. 1-8. DOI: 10.1109/MS.2023.3346646. To be submitted. | [{{< icon "arxiv" >}}]() [{{< icon "open-data" >}}](https://github.com/michaeldorner/tax_se) |
 
 ## Schedule
 
