@@ -31,7 +31,7 @@ Work in Progress!
 Comming soon
 {{< /alert >}}
 
-## Overview of Publication
+## Publications
 
 This section describes the main contributions of my thesis. Aside from the introduction, each chapter is based on a scientific manuscript submitted to a peer-reviewed publication.
 
