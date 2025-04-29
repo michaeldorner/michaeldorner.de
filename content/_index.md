@@ -1,5 +1,5 @@
 ---
-title: "Welcome! :tada:"
+title: "Hi, I'm Michael!"
 description: "Personal Website by Michael Dorner"
 ---
 

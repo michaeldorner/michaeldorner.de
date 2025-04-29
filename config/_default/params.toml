@@ -17,11 +17,9 @@ smartTOCHideUnfocusedChildren = true
 showViews = false
 showLikes = false
 robots = "all"
-# defaultBackgroundImage = "/img/background.svg"
-# defaultFeaturedImage = "/img/featured.svg"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed
+  layout = "basic" # valid options: basic, fixed
 
 [footer]
   showMenu = true
@@ -31,8 +29,8 @@ robots = "all"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "img/me.jpg" # used in: hero, and card
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/me.jpg" # used in: hero, and card
   showRecent = false
 
 [article]
