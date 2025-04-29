@@ -13,7 +13,7 @@ title = "Michael Dorner"
 
 [params.author]
   name = "Michael Dorner"
-  image = "img/me.jpg"
+  image = "img/me_profile.jpg"
   imageQuality = 100
   headline = "Software engineering researcher"
   bio = "Software engineering researcher"
