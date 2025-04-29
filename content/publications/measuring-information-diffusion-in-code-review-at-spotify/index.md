@@ -12,7 +12,7 @@ authors:
 ---
 
 {{< alert icon="fire" >}}
-Preprint accepted at [ESEM 2024](https://conf.researchr.org/details/esem-2024/esem-2024-registered-reports/3/Measuring-Information-Diffusion-in-Code-Review-at-Spotify) for EMSE Journal
+Registered report accepted at [ESEM 2024](https://conf.researchr.org/details/esem-2024/esem-2024-registered-reports/3/Measuring-Information-Diffusion-in-Code-Review-at-Spotify) for EMSE Journal
 {{< /alert >}}
 
 ## Abstract
@@ -40,4 +40,4 @@ Download PDF
 ## Meta
 
 - DOI: [10.48550/arXiv.2406.12553](https://doi.org/10.48550/arXiv.2406.12553)
-- arxiv: https://arxiv.org/abs/2406.12553
+- arxiv: <https://arxiv.org/abs/2406.12553>
