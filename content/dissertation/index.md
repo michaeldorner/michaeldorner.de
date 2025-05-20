@@ -28,7 +28,7 @@ This a preliminary version and is subject to ongoing revisions.
 
 [^1]: In Sweden and other Nordic countries, the comprehensive introduction, which integrates articles of a compilation thesis, is called a "kappa."
 
-Please note that the introduction will be continuously revised and updated, with the date used for versioning.
+Please note that the introduction will be continuously revised and updated, with the date used for versioning. Some company names are temporarily blacked out due to confidentiality agreements. We are currently awaiting official approval to disclose these names. Full details will be made available as soon as authorization is granted.
 
 {{< button href="main.pdf" target="_self" >}}
 Download PDF
