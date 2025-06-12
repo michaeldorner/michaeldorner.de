@@ -47,24 +47,18 @@ This section details the thesis contributions, with each chapter—aside from th
 | Chapter&nbsp;5 | Michael Dorner, Maximilian Capraro, Oliver Treidler, Tom-Eric Kunz, Darja Šmite, Ehsan Zabardast, Daniel Mendez, and Krzysztof Wnuk. Taxing Collaborative Software Engineering. 2024. *IEEE Software* 41, 4 (2024), 143--150. 10.1109/MS.2023.3346646 | <a href="/publications/taxing-collaborative-software-engineering/" target="_blank" rel="noopener">→</a> |
 | Chapter&nbsp;6 | Michael Dorner, Andreas Bauer, Darja Šmite, Ehsan Zabardast, Ricardo Britto, and Daniel Mendez. Quo Vadis, Code Review?. IEEE Software. Submission and preprint forthcoming. |  |
 
-## Schedule
+## Defense
 
-| Month    | Savings |
-| -------- | ------- |
-| Date  | September 23, 2025      |
-| Time | 14:00     |
-| Room    | J1630    |
-|Location| [Campus Karlskrona](https://www.bth.se/eng/about-bth/this-is-bth/maps-and-premises-2/)|
+**When?** September 23, 2025, 14:00
+
+**Where?** J1630 on [Campus Karlskrona](https://www.bth.se/eng/about-bth/this-is-bth/maps-and-premises-2/)
 
 ## Committee
 
-### Opponent
+**Opponent:** [Felix Dobslaw, Mid Sweden University](https://www.miun.se/en/personnel/d/felixdobslaw/)
 
-[Felix Dobslaw, Mid Sweden University](https://www.miun.se/en/personnel/d/felixdobslaw/)
-
-### Members of the grading committee
+**Members of the grading committee:**
 
 - [Brian Fitzgerald, University of Limerick and Lero, Ireland](https://lero.ie/people/brian-fitzgerald)
 - [Emma Söderberg, Lund University](https://portal.research.lu.se/en/persons/emma-söderberg)
 - [Burak Turhan, University of Oulu, Finland](https://turhanb.net)
-
