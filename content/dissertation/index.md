@@ -1,7 +1,7 @@
 ---
 title: "Code Review as a Communication Network"
 description: "A concise overview of my cumulative, publication-based doctoral thesis on code review as a communication network"
-date: "2025-05-21"
+date: "2025-06-15"
 showDate: true
 showPagination: false
 ---
