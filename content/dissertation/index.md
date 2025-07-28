@@ -55,7 +55,7 @@ This section details the thesis contributions, with each chapter—aside from th
 
 ## Committee
 
-**Opponent:** [Felix Dobslaw, Mid Sweden University](https://www.miun.se/en/personnel/d/felixdobslaw/)
+**Opponent:** [Felix Dobslaw](https://www.miun.se/en/personnel/d/felixdobslaw/), Mid Sweden University
 
 **Members of the grading committee:**
 
