@@ -17,6 +17,7 @@ smartTOCHideUnfocusedChildren = true
 showViews = false
 showLikes = false
 robots = "all"
+disableTextInHeader = false
 
 [header]
   layout = "basic" # valid options: basic, fixed
