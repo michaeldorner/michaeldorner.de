@@ -18,6 +18,7 @@ showViews = false
 showLikes = false
 robots = "all"
 disableTextInHeader = false
+# logo = "img/logo.png"
 
 [header]
   layout = "basic" # valid options: basic, fixed
