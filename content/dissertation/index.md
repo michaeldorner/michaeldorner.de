@@ -1,7 +1,7 @@
 ---
 title: "Code Review as a Communication Network"
 description: "A concise overview of my cumulative, publication-based doctoral thesis on code review as a communication network"
-date: "2025-06-15"
+date: "2025-07-28"
 showDate: true
 showPagination: false
 ---
@@ -59,6 +59,6 @@ This section details the thesis contributions, with each chapter—aside from th
 
 **Members of the grading committee:**
 
-- [Brian Fitzgerald, University of Limerick and Lero, Ireland](https://lero.ie/people/brian-fitzgerald)
-- [Emma Söderberg, Lund University](https://portal.research.lu.se/en/persons/emma-söderberg)
-- [Burak Turhan, University of Oulu, Finland](https://turhanb.net)
+- [Brian Fitzgerald](https://lero.ie/people/brian-fitzgerald), University of Limerick and Lero, Ireland
+- [Emma Söderberg](https://portal.research.lu.se/en/persons/emma-söderberg), Lund University, Sweden
+- [Burak Turhan](https://turhanb.net), University of Oulu, Finland
