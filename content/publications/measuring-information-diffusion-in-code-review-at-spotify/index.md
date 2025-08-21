@@ -40,4 +40,4 @@ Download PDF
 ## Meta
 
 - DOI: [10.48550/arXiv.2406.12553](https://doi.org/10.48550/arXiv.2406.12553)
-- arxiv: <https://arxiv.org/abs/2406.12553>
+- arXiv: <https://arxiv.org/abs/2406.12553>

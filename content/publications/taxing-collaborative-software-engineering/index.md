@@ -35,5 +35,5 @@ Download PDF
 ## Meta
 
 - DOI: [10.1109/MS.2023.3346646](https://doi.org/10.1109/MS.2023.3346646)
-- arxiv: https://arxiv.org/abs/2304.06539
+- arXiv: https://arxiv.org/abs/2304.06539
 - Publisher: https://www.computer.org/csdl/magazine/so/5555/01/10374093/1TaCXGcl2i4

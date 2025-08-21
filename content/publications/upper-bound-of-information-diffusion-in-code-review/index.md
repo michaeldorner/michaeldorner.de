@@ -44,5 +44,5 @@ Download PDF
 ## Meta
 
 - DOI: [10.1007/s10664-024-10442-y](https://doi.org/10.1007/s10664-024-10442-y)
-- arxiv: https://arxiv.org/abs/2306.08980
+- arXiv: https://arxiv.org/abs/2306.08980
 - Publisher: [Springer](https://link.springer.com/article/10.1007/s10664-024-10442-y)

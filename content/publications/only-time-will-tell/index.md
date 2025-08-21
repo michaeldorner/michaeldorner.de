@@ -40,5 +40,5 @@ Download PDF
 ## Meta
 
 - DOI: [10.1145/3544902.3546254](https://doi.org/10.1145/3544902.3546254)
-- arxiv: https://arxiv.org/abs/2110.07291
+- arXiv: https://arxiv.org/abs/2110.07291
 - Publisher: https://dl.acm.org/doi/abs/10.1145/3544902.3546254
