@@ -1,7 +1,7 @@
 ---
 title: "Code Review as a Communication Network"
 description: "A concise overview of my cumulative, publication-based doctoral thesis on code review as a communication network"
-date: "2025-08-11"
+date: "2025-08-21"
 showDate: false
 showPagination: false
 ---
@@ -20,6 +20,12 @@ This page offers an overview of my cumulative, publication-based doctoral thesis
 
 **Conclusion:** Our work on understanding code review as a communication network contributes not only to theory-driven, empirical software engineering research but also lays the groundwork for practical applications, particularly in the context of tax compliance. Future research is needed to explore the evolving role of code review as a communication network.
 
+## Fulltext
+
+{{< button href="main.pdf" target="_self" >}}
+Download PDF
+{{< /button >}}
+
 ## Publications
 
 This section details the thesis contributions, with each chapter—aside from the introduction—based on a manuscript submitted to a peer-reviewed venue.
@@ -28,16 +34,10 @@ This section details the thesis contributions, with each chapter—aside from th
 |---|---|---|
 | Chapter&nbsp;2 | Michael Dorner, Darja Šmite, Daniel Mendez, Krzysztof Wnuk, and Jacek Czerwonka. 2022. Only Time Will Tell: Modelling Information Diffusion in Code Review with Time-Varying Hypergraphs. In *ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*, 2022. ACM. 10.1145/3544902.3546254 | <a href="/publications/only-time-will-tell/" target="_blank" rel="noopener">→</a> |
 | Chapter&nbsp;3 | Michael Dorner, Daniel Mendez, Krzysztof Wnuk, Ehsan Zabardast, and Jacek Czerwonka. The Upper Bound of Information Diffusion in Code Review. 2025. *Empirical Software Engineering Journal* 30, 1 (2025). 10.1007/s10664-024-10442-y | <a href="/publications/upper-bound-of-information-diffusion-in-code-review/" target="_blank" rel="noopener">→</a> |
-| Chapter&nbsp;4 | Michael Dorner and Daniel Mendez. The Capability of Code Review as a Communication Network. Manuscript currently under review at *Transactions on Software Engineering and Methodology* | <a href="/publications/capability-of-code-review-as-a-communication-network" target="_blank" rel="noopener">→</a> |
+| Chapter&nbsp;4 | Michael Dorner and Daniel Mendez. The Capability of Code Review as a Communication Network. Manuscript currently under review at *Journal of Empirical Software Engineering*. | <a href="/publications/capability-of-code-review-as-a-communication-network" target="_blank" rel="noopener">→</a> |
 | Chapter&nbsp;5 | Michael Dorner, Daniel Mendez, Ehsan Zabardast, Nicole Valdez, and Marcin Floryan. *Measuring Information Diffusion in Code Review at Spotify*. Registered report accepted at *International Symposium on Empirical Software Engineering and Measurement (ESEM)*; manuscript currently under review at *Journal of Empirical Software Engineering*. | <a href="/publications/measuring-information-diffusion-in-code-review-at-spotify/" target="_blank" rel="noopener">→</a> |
 | Chapter&nbsp;6 | Michael Dorner, Maximilian Capraro, Oliver Treidler, Tom-Eric Kunz, Darja Šmite, Ehsan Zabardast, Daniel Mendez, and Krzysztof Wnuk. Taxing Collaborative Software Engineering. 2024. *IEEE Software* 41, 4 (2024), 143--150. 10.1109/MS.2023.3346646 | <a href="/publications/taxing-collaborative-software-engineering/" target="_blank" rel="noopener">→</a> |
 | Chapter&nbsp;7 | Michael Dorner, Andreas Bauer, Darja Šmite, Lukas Thode, Daniel Mendez, Ricardo Britto, Stephan Lukasczyk, Ehsan Zabardast, and Michael Kormann. Quo Vadis, Code Review?. Manuscript under review at *IEEE Software*. |  |
-
-## Fulltext
-
-{{< button href="main.pdf" target="_self" >}}
-Download PDF
-{{< /button >}}
 
 ## Defense
 
