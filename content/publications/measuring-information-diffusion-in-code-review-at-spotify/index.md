@@ -37,6 +37,10 @@ Download PDF
 Download PDF
 {{< /button >}}
 
+## Replication Package
+
+{{< github repo="michaeldorner/measuring-information-diffusion-in-code-review-at-spotify" >}}
+
 ## Meta
 
 - DOI: [10.48550/arXiv.2406.12553](https://doi.org/10.48550/arXiv.2406.12553)
