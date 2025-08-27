@@ -27,13 +27,19 @@ Registered report accepted at [ESEM 2024](https://conf.researchr.org/details/ese
 
 ### Registered Report
 
-{{< button href="measuring-information-diffusion.pdf" target="_self" >}}
+{{< button href="measuring-information-diffusion-registered-report.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
 
 ### Poster
 
 {{< button href="measuring-information-diffusion-poster.pdf" target="_self" >}}
+Download PDF
+{{< /button >}}
+
+### Submitted manuscript
+
+{{< button href="measuring-information-diffusion.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
 
