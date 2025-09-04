@@ -21,7 +21,7 @@ Code review has long been a core practice in collaborative software engineering.
 
 ## Downloads
 
-{{< button href="<https://arxiv.org/abs/2508.06879>" target="_blank" >}}
+{{< button href="quo-vadis-code-review.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
 
