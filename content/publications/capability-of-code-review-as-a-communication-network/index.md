@@ -24,7 +24,7 @@ and (2) empirically test its validity by quantifying how widely and how quickly 
 
 ## Downloads
 
-{{< button href="<https://arxiv.org/abs/2306.08980>" target="_blank" >}}
+{{< button href="capability-of-code-review-as-a-communication-network.pdf" target="_blank" >}}
 Download PDF
 {{< /button >}}
 
