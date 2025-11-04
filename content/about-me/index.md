@@ -15,6 +15,8 @@ In my research, I have the privilege to collaborate with outstanding scientists 
 
 As an passionate advocate for [open science](https://en.wikipedia.org/wiki/Open_science), all of my studies are freely available. For the studies of which I am the first author, I publish preprints, provide extensive replication packages, and make code and data (to the extent legally and ethically possible) publicly available.
 
+Since 2025, I have been a professor of software engineering at the [Institute for Software Engineering](https://www.th-nuernberg.de/en/facilities/institutes/institute-for-applied-computer-science/) at the [Technische Hochschule Nürnberg](https://www.th-nuernberg.de/en/), Germany, where I continue pursuing these questions at the intersection of research, practice, and education.
+
 ## The Entrepreneur
 
 Together with an interdisciplinary team of researchers, we discovered that [collaborative software engineering is actually taxable if the collaboration crosses national borders]({{< ref "/research/tax-compliance-in-software-engineering" >}}). We found out that:
