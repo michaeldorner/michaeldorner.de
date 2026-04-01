@@ -1,8 +1,8 @@
 ---
 title: 'Stop Doing Code Review'
 date: 2026-04-01
-description: "In software engineering, code review has become a pillar of collaborative software engineering and, for many teams, a non-negotiable step in shipping anything at all. But what if we stopped?"
-summary: "In software engineering, code review has become a pillar of collaborative software engineering and, for many teams, a non-negotiable step in shipping anything at all. But what if we stopped?"
+description: "In software engineering, code review has become a pillar of collaborative software engineering and, for many teams, a non-negotiable step in software engineering. But what if we stopped?"
+summary: "In software engineering, code review has become a pillar of collaborative software engineering and, for many teams, a non-negotiable step in software engineering. But what if we stopped?"
 research: ["code review"]
 ---
 
