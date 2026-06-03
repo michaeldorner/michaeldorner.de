@@ -1,8 +1,8 @@
 ---
 title: "Measuring Information Diffusion in Code Review at Spotify"
 date: 2024-10-24
-research: ["code review", "information diffusion"]
-venue: ["EMSE", "ESEM"]
+research: ["code review", "information diffusion", "preprint"]
+venue: ["Preprint"]
 authors:
     - Michael Dorner
     - Daniel Mendez

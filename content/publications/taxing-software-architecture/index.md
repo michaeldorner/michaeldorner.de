@@ -1,8 +1,8 @@
 ---
 title: "Describing Globally Distributed Software Architectures for Tax Compliance"
 date: 2023-12-01
-research: ["tax compliance in software engineering", "software architecture"]
-venue: ["EMSE"]
+research: ["tax compliance in software engineering", "software architecture", "preprint"]
+venue: ["Preprint"]
 authors:
     - Michael Dorner
     - Maximilian Capraro
