@@ -1,8 +1,8 @@
 ---
-title: "No Free Lunch: Research Software Testing in Teaching"
+title: "When Research Software Goes to Class: Lessons From Embedding Research Software Into Teaching"
 date: 2024-10-04
 research: ["teaching", "research software engineering"]
-venue: "ECEASST"
+venue: "Journal of Open Research Software"
 authors:
     - Michael Dorner
     - Andreas Bauer
@@ -10,29 +10,26 @@ authors:
 showDate: false
 ---
 
-{{< alert>}}
-Preprint - under review at Journal of Open Research Software
-{{< /alert >}}
-
 ## Abstract
 
-**Background:** Software is at the core of most scientific discoveries today. Therefore, the quality of research results highly depends on the quality of the research software. Rigorous testing, as we know it from software engineering in the industry, could ensure the quality of the research software but it also requires a substantial effort that is often not rewarded in academia.
+**Background:** Software is at the core of most scientific discoveries today, and the reliability of research results increasingly depends on the quality of the software that underpins them. However, research software is often developed under constraints that prioritize scientific progress over engineering rigor, leaving little to no incentive for maintenance, documentation, or quality assurance.
 
-**Objective:** Therefore, this research explores the effects of research software testing integrated into teaching on research software.
+**Objective:** This study examines whether embedding an existing research software into a software testing course can contribute to improving the quality of the research software and identifies the associated challenges.
 
-**Method:** In an *in-vivo* experiment, we integrated the engineering of a test suite for a large-scale network simulation as group projects into a course on software testing at the Blekinge Institute of Technology, Sweden, and qualitatively measured the effects of this integration on the research software.
+**Method:**  In an _in vivo_ experiment, we embedded a large-scale network simulation into a university course on software testing at Blekinge Institute of Technology, Sweden, as a group project and observed the effects on the research software.
 
-**Results:** We found that the research software benefited from the integration through substantially improved documentation and fewer hardware and software dependencies. However, this integration was effortful and although the student teams developed elegant and thoughtful test suites, no code by students went directly into the research software since we were not able to make the integration back into the research software obligatory or even remunerative.
+**Results:** We found that the research software benefited from the embedding through substantially improved documentation and fewer hardware and software dependencies. However, the embedding required significant additional effort from us, and although the student teams produced thoughtful and well-designed test suites, none of their code contributions could be merged into the research software due to uncertainties around intellectual property.
 
-**Conclusion:** We strongly believe that integrating research software engineering, such as testing, into teaching is valuable not only for the research software itself but also for students gaining exposure to bleeding-edge research in their field. However, the uncertainty about the intellectual properties of students' code contributions substantially limits the potential of integrating research software engineering into teaching.
+**Conclusion:** We strongly believe that embedding research software engineering activities into teaching can enhance the quality of research software while providing students with exposure to research. However, the uncertainty about the intellectual property of students’ code contributions substantially limits its potential.
 
 ## Download
 
-{{< button href="https://arxiv.org/pdf/2405.11965" target="_self" >}}
+{{< button href="when-research-software-goes-to-class.pdf" target="_self" >}}
 Download PDF
 {{< /button >}}
 
 ## Meta
 
-- DOI: [10.48550/arXiv.2405.11965](https://doi.org/10.48550/arXiv.2405.11965)
+- DOI: [10.5334/jors.548](https://doi.org/10.5334/jors.548)
 - arXiv: [https://arxiv.org/abs/2405.11965](https://arxiv.org/abs/2405.11965)
+- Publisher: <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.548>
