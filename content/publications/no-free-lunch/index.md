@@ -1,6 +1,6 @@
 ---
 title: "When Research Software Goes to Class: Lessons From Embedding Research Software Into Teaching"
-date: 2024-10-04
+date: 2026-03-23
 research: ["teaching", "research software engineering"]
 venue: "Journal of Open Research Software"
 authors:
